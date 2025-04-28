@@ -7,7 +7,7 @@ import { Provider } from 'react-redux'
 import SignUp from './pages/SignUp.jsx'
 import StartSelling from './pages/StartSelling.jsx'
 import SellerDashboard from './pages/SellerDashboard.jsx'
-import BuyerDashboard from './pages/BuyerDashBoard.jsx'
+import BuyerDashboard from './pages/BuyerDashboard.jsx'
 import  { createBrowserRouter,RouterProvider } from 'react-router-dom'
 import AuthLayout from './components/AuthLayout.jsx'
 
