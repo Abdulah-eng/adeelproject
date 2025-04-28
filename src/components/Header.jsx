@@ -50,9 +50,9 @@ function Header() {
         <img 
           src={logo} 
           alt="Company Logo" 
-          className="h-10 w-auto transition-transform duration-300 group-hover:scale-110" 
+          className="h-10 w-auto transition-transform duration-300 group-hover:scale-110" zzz
         />
-        <span className="ml-2.5 text-xl font-semibold text-indigo-600 transition-all duration-300 group-hover:text-indigo-700 group-hover:tracking-wide">
+        <span className="ml-2.5 text-xl font-semibold text-indigo-600 transition-all duration-300 group-hover:text-indigo-700 group-hover:tracking-wide hidden sm:block">
           Store
         </span>
       </div>
